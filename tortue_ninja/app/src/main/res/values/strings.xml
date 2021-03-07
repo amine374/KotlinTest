@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tortue_ninja</string>
+    <string name="leo">Lenardo</string>
+    <string name="mike">Mikel</string>
+    <string name="dona">Donatello</string>
+    <string name="raph">Raphael</string>
+</resources>
